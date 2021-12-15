@@ -1,3 +1,8 @@
+/**
+ * @author      Wen-Pinn Fang <wpfang@saturn.yzu.edu.tw>
+ * @version     1.0                 
+ * @since       1.0          
+ */
 #include <iostream>
 #include <string>
 using namespace std;
